@@ -1,0 +1,8 @@
+c:\users\markr\documents\visual studio 2010\Projects\HW 2 Computer Programming II\HW 2 Computer Programming II\obj\x86\Debug\HW_2_Computer_Programming_II.Form1.resources
+c:\users\markr\documents\visual studio 2010\Projects\HW 2 Computer Programming II\HW 2 Computer Programming II\obj\x86\Debug\HW_2_Computer_Programming_II.Properties.Resources.resources
+c:\users\markr\documents\visual studio 2010\Projects\HW 2 Computer Programming II\HW 2 Computer Programming II\obj\x86\Debug\HW 2 Computer Programming II.csproj.GenerateResource.Cache
+c:\users\markr\documents\visual studio 2010\Projects\HW 2 Computer Programming II\HW 2 Computer Programming II\bin\Debug\HW 2 Computer Programming II.exe
+c:\users\markr\documents\visual studio 2010\Projects\HW 2 Computer Programming II\HW 2 Computer Programming II\bin\Debug\HW 2 Computer Programming II.pdb
+c:\users\markr\documents\visual studio 2010\Projects\HW 2 Computer Programming II\HW 2 Computer Programming II\obj\x86\Debug\HW 2 Computer Programming II.exe
+c:\users\markr\documents\visual studio 2010\Projects\HW 2 Computer Programming II\HW 2 Computer Programming II\obj\x86\Debug\HW 2 Computer Programming II.pdb
+c:\users\markr\documents\visual studio 2010\Projects\HW 2 Computer Programming II\HW 2 Computer Programming II\obj\x86\Debug\HW_2_Computer_Programming_II.Application.resources

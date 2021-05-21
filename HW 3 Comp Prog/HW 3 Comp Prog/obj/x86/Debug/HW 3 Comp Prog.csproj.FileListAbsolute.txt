@@ -1,0 +1,8 @@
+c:\users\markr\documents\visual studio 2010\Projects\HW 3 Comp Prog\HW 3 Comp Prog\bin\Debug\HW 3 Comp Prog.exe
+c:\users\markr\documents\visual studio 2010\Projects\HW 3 Comp Prog\HW 3 Comp Prog\bin\Debug\HW 3 Comp Prog.pdb
+c:\users\markr\documents\visual studio 2010\Projects\HW 3 Comp Prog\HW 3 Comp Prog\obj\x86\Debug\HW_3_Comp_Prog.Form1.resources
+c:\users\markr\documents\visual studio 2010\Projects\HW 3 Comp Prog\HW 3 Comp Prog\obj\x86\Debug\HW_3_Comp_Prog.Properties.Resources.resources
+c:\users\markr\documents\visual studio 2010\Projects\HW 3 Comp Prog\HW 3 Comp Prog\obj\x86\Debug\HW 3 Comp Prog.csproj.GenerateResource.Cache
+c:\users\markr\documents\visual studio 2010\Projects\HW 3 Comp Prog\HW 3 Comp Prog\obj\x86\Debug\HW 3 Comp Prog.exe
+c:\users\markr\documents\visual studio 2010\Projects\HW 3 Comp Prog\HW 3 Comp Prog\obj\x86\Debug\HW 3 Comp Prog.pdb
+C:\Users\markr\Documents\Visual Studio 2010\Projects\HW 3 Comp Prog\HW 3 Comp Prog\obj\x86\Debug\HW_3_Comp_Prog.Form2.resources

@@ -1,0 +1,8 @@
+C:\Users\markr\Documents\Visual Studio 2010\Projects\Exp 1\Exp 1\obj\x86\Debug\Exp_1.Properties.Resources.resources
+C:\Users\markr\Documents\Visual Studio 2010\Projects\Exp 1\Exp 1\obj\x86\Debug\Exp 1.csproj.GenerateResource.Cache
+C:\Users\markr\Documents\Visual Studio 2010\Projects\Exp 1\Exp 1\obj\x86\Debug\Exp_1.Form1.resources
+C:\Users\markr\Documents\Visual Studio 2010\Projects\Exp 1\Exp 1\bin\Debug\Exp 1.exe
+C:\Users\markr\Documents\Visual Studio 2010\Projects\Exp 1\Exp 1\bin\Debug\Exp 1.pdb
+C:\Users\markr\Documents\Visual Studio 2010\Projects\Exp 1\Exp 1\obj\x86\Debug\Exp 1.exe
+C:\Users\markr\Documents\Visual Studio 2010\Projects\Exp 1\Exp 1\obj\x86\Debug\Exp 1.pdb
+C:\Users\markr\Documents\Visual Studio 2010\Projects\Exp 1\Exp 1\obj\x86\Debug\Exp_1.Form2.resources

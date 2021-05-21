@@ -1,0 +1,7 @@
+c:\users\markr\documents\visual studio 2010\Projects\Retry\Retry\obj\x86\Debug\Retry.Form1.resources
+c:\users\markr\documents\visual studio 2010\Projects\Retry\Retry\obj\x86\Debug\Retry.Properties.Resources.resources
+c:\users\markr\documents\visual studio 2010\Projects\Retry\Retry\obj\x86\Debug\Retry.csproj.GenerateResource.Cache
+c:\users\markr\documents\visual studio 2010\Projects\Retry\Retry\bin\Debug\Retry.exe
+c:\users\markr\documents\visual studio 2010\Projects\Retry\Retry\bin\Debug\Retry.pdb
+c:\users\markr\documents\visual studio 2010\Projects\Retry\Retry\obj\x86\Debug\Retry.exe
+c:\users\markr\documents\visual studio 2010\Projects\Retry\Retry\obj\x86\Debug\Retry.pdb

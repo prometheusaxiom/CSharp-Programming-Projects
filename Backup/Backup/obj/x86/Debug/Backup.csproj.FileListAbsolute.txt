@@ -1,0 +1,8 @@
+c:\users\markr\documents\visual studio 2010\Projects\Backup\Backup\obj\x86\Debug\Backup.Form1.resources
+c:\users\markr\documents\visual studio 2010\Projects\Backup\Backup\obj\x86\Debug\Backup.Properties.Resources.resources
+c:\users\markr\documents\visual studio 2010\Projects\Backup\Backup\obj\x86\Debug\Backup.csproj.GenerateResource.Cache
+c:\users\markr\documents\visual studio 2010\Projects\Backup\Backup\bin\Debug\Backup.exe
+c:\users\markr\documents\visual studio 2010\Projects\Backup\Backup\bin\Debug\Backup.pdb
+c:\users\markr\documents\visual studio 2010\Projects\Backup\Backup\obj\x86\Debug\Backup.exe
+c:\users\markr\documents\visual studio 2010\Projects\Backup\Backup\obj\x86\Debug\Backup.pdb
+c:\users\markr\documents\visual studio 2010\Projects\Backup\Backup\obj\x86\Debug\Backup.Form2.resources
